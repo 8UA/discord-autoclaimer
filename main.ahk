@@ -24,7 +24,7 @@ LAlt::
 
         ImageSearch, FoundX, FoundY, 0, 0, %A_ScreenWidth%, %A_ScreenHeight%, image.png
         If ErrorLevel {
-            Loop, lt {
+            Loop, %lt% {
                 Send, {BackSpace}
             }
         }
