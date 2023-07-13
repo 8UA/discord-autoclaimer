@@ -1,3 +1,5 @@
+[ THIS DOESN'T WORK ANYMORE BECAUSE YOU ARE NOW REQUIRED TO PASS A CAPTCHA EVEN WHEN THE USERNAME IS NOT AVAILABLE ]
+
 an autohotkey macro for autoclaiming discord usernames
 
 how to use:
